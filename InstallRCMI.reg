@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\*\shell\Tag]
+[HKEY_CLASSES_ROOT\*\shell\Tag\command]
+@="C:\\Python32\\pythonw.exe C:\\Python32\\PyQt_test\\tag_file_dialog.pyw %1" 
+[HKEY_CLASSES_ROOT\Directory\shell\Tag]
+[HKEY_CLASSES_ROOT\Directory\shell\Tag\command]
+@="C:\\Python32\\pythonw.exe C:\\Python32\\PyQt_test\\tag_file_dialog.pyw %1"
